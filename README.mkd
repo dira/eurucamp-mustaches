@@ -1,0 +1,21 @@
+# Having fun with mustaches
+
+Trying to win a [Señor Developer](http://www.xn--seordeveloper-jkb.com/) at eurucamp2012.
+
+## Nice backgrounds
+
+![](/images/screen1.jpg)
+
+---
+
+![](/images/screen2.jpg)
+
+---
+
+![](/images/screen3.jpg)
+
+---
+
+![](/images/screen4.jpg)
+
+---
