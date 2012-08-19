@@ -19,3 +19,5 @@ Trying to win a [Señor Developer](http://www.xn--seordeveloper-jkb.com/) T-shir
 ![](https://raw.github.com/dira/eurucamp-mustaches/master/images/screen4.jpg)
 
 ---
+
+Created with [Repper](http://repperpatterns.com/) and [Pixlr](http://pixlr.com/editor).
