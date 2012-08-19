@@ -1,6 +1,6 @@
 # Having fun with mustaches
 
-Trying to win a [Señor Developer](http://www.xn--seordeveloper-jkb.com/) at eurucamp2012.
+Trying to win a [Señor Developer](http://www.xn--seordeveloper-jkb.com/) T-shirt at [eurucamp2012](http://2012.eurucamp.org).
 
 ## Nice backgrounds
 
