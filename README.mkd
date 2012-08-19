@@ -4,18 +4,18 @@ Trying to win a [Señor Developer](http://www.xn--seordeveloper-jkb.com/) at eur
 
 ## Nice backgrounds
 
-![](/images/screen1.jpg)
+![](https://raw.github.com/dira/eurucamp-mustaches/master/images/screen1.jpg)
 
 ---
 
-![](/images/screen2.jpg)
+![](https://raw.github.com/dira/eurucamp-mustaches/master/images/screen2.jpg)
 
 ---
 
-![](/images/screen3.jpg)
+![](https://raw.github.com/dira/eurucamp-mustaches/master/images/screen3.jpg)
 
 ---
 
-![](/images/screen4.jpg)
+![](https://raw.github.com/dira/eurucamp-mustaches/master/images/screen4.jpg)
 
 ---
